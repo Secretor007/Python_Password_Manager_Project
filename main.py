@@ -67,7 +67,7 @@ web_entry.focus()
 
 user_entry = Entry(width=50)
 user_entry.grid(row=2, column=1, columnspan=2)
-user_entry.insert(0, "prathamkadave007@gmail.com")
+user_entry.insert(0, "example@example.com")
 
 password_entry = Entry(width=32)
 password_entry.grid(row=3, column=1)
